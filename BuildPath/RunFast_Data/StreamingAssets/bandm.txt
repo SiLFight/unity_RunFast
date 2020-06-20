@@ -1,0 +1,111 @@
+{
+	"level": [{
+		"bAndMs": [{
+			"name": "Barrier1",
+			"x": -1,
+			"z": -10
+		},{
+			"name": "Barrier1",
+			"x": -1,
+			"z": -8
+		},{
+			"name": "Barrier1",
+			"x": 1,
+			"z": -6
+		},{
+			"name": "Barrier1",
+			"x": 0,
+			"z": -4
+		},{
+			"name": "Barrier1",
+			"x": 0,
+			"z": -2
+		},{
+			"name": "Barrier2",
+			"x": 1,
+			"z": 0
+		},{
+			"name": "Barrier2",
+			"x": 1,
+			"z": 10
+		},{
+			"name": "Barrier2",
+			"x": 0.5,
+			"z": 14
+		},{
+			"name": "Barrier3",
+			"x": 0,
+			"z": 18
+		},{
+			"name": "Barrier3",
+			"x": -0.5,
+			"z": 22
+		},{
+			"name": "Barrier3",
+			"x": -1,
+			"z": 26
+		},{
+			"name": "Barrier3",
+			"x": 0,
+			"z": 40
+		},{
+			"name": "Barrier3",
+			"x": 1,
+			"z": 45
+		},{
+			"name": "Barrier2",
+			"x": 0,
+			"z": 50
+		},{
+			"name": "Barrier1",
+			"x": -1,
+			"z": 55
+		},{
+			"name": "Barrier2",
+			"x": 0,
+			"z": 60
+		},{
+			"name": "Monster2",
+			"x": 1,
+			"z": 65
+		},{
+			"name": "Monster1",
+			"x": 0,
+			"z": 70
+		},{
+			"name": "Monster2",
+			"x": -1,
+			"z": 75
+		},{
+			"name": "Monster1",
+			"x": 0,
+			"z": 80
+		},{
+			"name": "Monster1",
+			"x": 1,
+			"z": 85
+		},{
+			"name": "Monster2",
+			"x": 0,
+			"z": 90
+		},{
+			"name": "Monster1",
+			"x": -1,
+			"z": 95
+		},{
+			"name": "Monster1",
+			"x": 0,
+			"z": 100
+		},{
+			"name": "Monster2",
+			"x": 1,
+			"z": 105
+		}]
+	}, {
+		"bAndMs": [{
+			"name": "Barrier1",
+			"x": 1,
+			"z": 20
+		}]
+	}]
+}
